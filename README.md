@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Ransomware-Transactions-Detection
-=======
+
 # Ransomware-Transactions-Detection
 
 ### Proposal:
