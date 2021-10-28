@@ -20,6 +20,9 @@ Undersampled (with TomekLinks and EditedNearestNeighbours) and unbalanced, scale
 #### Model:
 AdaBoosting with XGB, GBT and GNB
 #### Scoring:
+![CM](https://raw.githubusercontent.com/SDAIA-T5-Projects/Ransomware-Transactions-Detection/main/Photo/CM.png)
+![AUC](https://raw.githubusercontent.com/SDAIA-T5-Projects/Ransomware-Transactions-Detection/main/Photo/AUC.png)
+
 Accuracy   =  0.9118<br>
 Precision  =  0.896 <br>
 Recall        =  0.9319 <br>
